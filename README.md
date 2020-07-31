@@ -15,6 +15,7 @@ However, we can also notice that the min(bottom) temperature gets about 10 degre
 
 NEXT STEPS:
 
+- May be it makes sense to obtain data for the last decade given the climate change pattern as well as some projections along the lines of climate change for the next decade or so.
 - Further analysis of precipitation is required to get full picture of the weather pattern for the months in question.
 - Taking a bit more granular approach, like looking by the week and noting any variations accordingly.
 - Trying to pull in other data like current tourist activity during these months, on the island and nearby islands.
